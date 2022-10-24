@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\4.107\4.107\bin\Debug\net6.0\4.107.exe
+C:\Users\user\source\repos\4.107\4.107\bin\Debug\net6.0\4.107.deps.json
+C:\Users\user\source\repos\4.107\4.107\bin\Debug\net6.0\4.107.runtimeconfig.json
+C:\Users\user\source\repos\4.107\4.107\bin\Debug\net6.0\4.107.dll
+C:\Users\user\source\repos\4.107\4.107\bin\Debug\net6.0\4.107.pdb
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\4.107.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\4.107.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\4.107.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\4.107.AssemblyInfo.cs
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\4.107.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\4.107.dll
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\refint\4.107.dll
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\4.107.pdb
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\4.107.genruntimeconfig.cache
+C:\Users\user\source\repos\4.107\4.107\obj\Debug\net6.0\ref\4.107.dll
